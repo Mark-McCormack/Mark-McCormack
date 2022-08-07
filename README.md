@@ -35,7 +35,7 @@
     <a href="https://github.com/mark-mccormack/QR-Code-Manager"><img width="270" src="https://github-readme-stats.vercel.app/api/pin?username=mark-mccormack&repo=QR-Code-Manager&hide_border=true&show_icons=false&theme=tokyonight" alt="QR-Code Manager"></a>
     <a href="https://github.com/mark-mccormack/Template-Stacks"><img width="270" src="https://github-readme-stats.vercel.app/api/pin/?username=mark-mccormack&repo=Template-Stacks&hide_border=true&show_icons=false&theme=tokyonight" alt="Full-Stack Templates">
     <a href="https://github.com/mark-mccormack/College-Algorithm-Projects"><img width="270" src="https://github-readme-stats.vercel.app/api/pin/?username=mark-mccormack&repo=College-Algorithm-Projects&hide_border=true&show_icons=false&theme=tokyonight" alt="College Algorithm Projects"></a>
-    <a href="https://github.com/mark-mccormack/Game-Of-Life"><img width="270" src="https://github-readme-stats.vercel.app/api/pin?username=mark-mccormack&repo=Game-Of-Life&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false&theme=tokyonight" alt="Game of Life"></a>
+    <a href="https://github.com/mark-mccormack/Pomodoro-Timer"><img width="270" src="https://github-readme-stats.vercel.app/api/pin?username=mark-mccormack&repo=Pomodoro-Timer&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false&theme=tokyonight" alt="Game of Life"></a>
   </p>
 
 ## 📘 Work Experience
